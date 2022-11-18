@@ -1,9 +1,9 @@
-name: Bug Report
-description: File a bug report
+name: VetVR Bug Report
+description: File a VetvR bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - octocat
+  - Wenjing Jiang, Morgan Jones, E Fraire, Lodan Arkikaki
 body:
   - type: markdown
     attributes:
